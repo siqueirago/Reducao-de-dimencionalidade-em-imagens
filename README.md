@@ -22,9 +22,7 @@ Reduzir a complexidade das imagens utilizadas em redes neurais por meio da conve
 3. Visualização das Transformações
    * Exibição das imagens original, em tons de cinza e binarizada.
 
-4. Armazenamento das Imagens Processadas
-   * As imagens convertidas são salvas no diretório especificado.
-  
+
 ## Contribuições
 
 Sinta-se à vontade para abrir issues e pull requests para melhorias no projeto!
